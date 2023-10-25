@@ -1,8 +1,8 @@
 <h1 align="center">Hi I'm Lingesh R</h1>
-<h3 align="center">Dedicated to exploring through digital realms with wonder, curiosity and Eager to learn, create, and connect in this ever-evolving digital world.</h3>
+<h3 align="center">Dedicated to exploring digital realms with wonder, curiosity, and eagerness to learn, create, and connect in this ever-evolving digital world.</h3>
 
 <img align="right" alt="coding" height="250" width="350" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
-<br/>
+< br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lingesh81051&label=Profile%20views&color=0e75b6&style=flat" alt="lingesh81051" /> </p>
 
